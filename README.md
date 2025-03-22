@@ -16,7 +16,7 @@ The following machine learning algorithms were compared:
 ## 📂 Dataset  
 - The dataset contains labeled phishing and legitimate URLs.  
 - Features include textual, lexical, and host-based characteristics.  
-- Source : Kaggle 
+- Source : Kaggle, link to the dataset - https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
 
 ## 📊 Results  
 After training and evaluating multiple machine learning models, the following results were observed:
